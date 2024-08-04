@@ -1,13 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nischal Shakya
+Nischal Shakya
 ======================================================================================================================================
 
 Web Development Enthusiast | Always Seeking New Challenges
 ----------------------------------------------------------
 
-Self-taught coder on a journey of continuous learning and growth. I started exploring HTML, CSS, and JavaScript four years ago, gradually delving into PHP for server-side scripting. Along the way , I gained experience with Python and Django for web development. Now, I'm diving deep into JavaScript, focusing on the MERN stack. My journey is all about adapting to evolving technologies, and I'm committed to lifelong learning.
+I’m a passionate web developer with a focus on continuous learning and growth. Over the past few years, I’ve explored various technologies including HTML, CSS, JavaScript, PHP, Python, and Django. Currently, I’m diving deep into the MERN stack to build dynamic and scalable web applications. I’m always on the lookout for new challenges and opportunities to expand my skill set.
 
-* ✉️  You can contact me at [nischalshakya787@gmail.com](mailto:nischalshakya787@gmail.com)
-* 🧠  I'm learning MERN
+* ✉️  Feel free to reach out: [nischalshakya787@gmail.com](mailto:nischalshakya787@gmail.com)
 
 ### Skills
 
