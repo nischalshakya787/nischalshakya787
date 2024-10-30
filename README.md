@@ -6,11 +6,10 @@ Web Development Enthusiast | Always Seeking New Challenges
 
 I’m a passionate web developer with a focus on continuous learning and growth. Over the past few years, I’ve explored various technologies including HTML, CSS, JavaScript, PHP, Python, and Django. Currently, I’m diving deep into the MERN stack to build dynamic and scalable web applications. I’m always on the lookout for new challenges and opportunities to expand my skill set.
 
-* ✉️  Feel free to reach out: [nischalshakya787@gmail.com](mailto:nischalshakya787@gmail.com)
+* ✉️ Feel free to reach out: [nischalshakya787@gmail.com](mailto:nischalshakya787@gmail.com)
 
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=nischalshakya787&color=blue)
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=nischalshakya787&color=blue)
+
 
 
 
